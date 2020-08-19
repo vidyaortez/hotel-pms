@@ -1,2 +1,2 @@
-# hotel-pms
-https://ortezinfotech.in/hotel-management-software.html
+# Ortez hotel-pms
+A PMS system of hotel has traditionally been defined as a platform for a hotel or group of hotels that can manage office capabilities, such as bookings, guest check-in / check-outs, room allocations, room rates and accounting. Ortez provides all these functions in a a hotel very efficiently. For more details visit: <a href="https://ortezinfotech.in/hotel-management-software.html">pms software india<a/>
